@@ -2,11 +2,11 @@
 require('inc/db_connect.php');
 ob_start();
 session_start();
-if(!isset($_SESSION["salih_blog"])){
+if(!isset($_SESSION["alpay_blog"])){
   header("Location:index.php");
 }
 else{
-  $user = $_SESSION["salih_blog"];
+  $user = $_SESSION["alpay_blog"];
   $username = $user['username'];
 }
 ?>
