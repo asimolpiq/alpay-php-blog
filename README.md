@@ -6,10 +6,19 @@ Kullanmadan önce inc klasörü altındaki db_connect.php dosyasından veritaban
 
 ## ScreenShots
 
-![ScreenShot](https://github.com/asimolpiq/weatergoo/blob/main/screenshots/1.png)
+![ScreenShot](https://github.com/asimolpiq/alpay-php-blog/blob/master/screenshots/1.png?raw=true)
 
 
-![ScreenShot](https://github.com/asimolpiq/weatergoo/blob/main/screenshots/2.png)
+![ScreenShot](https://github.com/asimolpiq/alpay-php-blog/blob/master/screenshots/2.png?raw=true)
 
 
-![ScreenShot](https://github.com/asimolpiq/weatergoo/blob/main/screenshots/3.png)
+![ScreenShot](https://github.com/asimolpiq/alpay-php-blog/blob/master/screenshots/3.png?raw=true)
+
+
+![ScreenShot](https://github.com/asimolpiq/alpay-php-blog/blob/master/screenshots/4.png?raw=true)
+
+
+![ScreenShot](https://github.com/asimolpiq/alpay-php-blog/blob/master/screenshots/5.png?raw=true)
+
+
+![ScreenShot](https://github.com/asimolpiq/alpay-php-blog/blob/master/screenshots/6.png?raw=true)
